@@ -1,0 +1,30 @@
++ Asura Strike - ถ้าโดน Dispell หรือ Absorb Spirit จะร่ายล้มเหลว
++ Body Relocation - ถ้าติด Trap , Fiberlock จะไม่สามารถใช้งานได้
++ Slim Potion Pitcher - สามารถใช้ Heal Emperium ได้
++ Bulk Buyer Shop 2 ระบบ (เพิ่มเงื่อไขใช้ item ซื้อ)
++ Vending 2 ระบบ
++ @user โชว์คนทั้งหมด (รวม @at , @afk ด้วย)
++ @user2 โชว์เฉพาะคนที่ออนไลน์อยู่จริง (ไม่รวม @at , @afk )
++ ปรับสมาชิกใน Party,Guild ในไฟล์ .conf ได้
++ กำหนดไอเท็มติดตัวตอนเริ่มเกมส์ได้มากกว่า 2 ชิ้น (ปรับใน .conf)
++ ตรวจสอบไอเท็มด้วยการคลิกขวา (ปรับใน .conf)
++ Fasion System (ขอแบบสร้างไอเท็มขึ้นมาใหม่ @costume ไม่เอา)
++ Riding System (ขี่สัตว์)
++ Peo Evolution (ขอสคริปตัวอย่างด้วย)
++ @itemmap (ขอแบบ npc command ด้วย)
++ Zone PVP http://www.zian-it.com/forum/index.php?/topic/45-releasepvp-area-รีเมคไหม่-ไฉไลกว่าเดิม/
++ ดูกิลด์วอร์ http://www.zian-it.com/forum/index.php?/topic/383-releaseระบบเข้าชมกิลวอร์-ตามติดทุก/
++ แยกวอร์ http://board.zian-it.com/topic/118-สิ้นสุดการรอคอย-แยกระบบ-guildwar-1-1/
++ http://board.zian-it.com/topic/68-breakguild-เผื่อเวลาตั้งชื่อซะสวยสัญลักษณ์นู่นนี่เยอะไปหมด-แล้วจำชื่อไม่ได้-ได/
++ http://board.zian-it.com/topic/57-afk-แบบใหม่คับ-ฉบับ-remake-แบบห้องแชทรูม/
++ http://board.zian-it.com/topic/49-src-แก้ไขการใช้wpe-ทำบัคผ่าน-mailbox-ระบบประมูล/
++ ระบบ monster (ถ้าไม่ได้ไม่เป็นไร) http://dev.terra-gaming.com/index.php?/topic/285-monster-duel/
++ show_mob_info แบบเห็นเป็นหลอดเลือด (ปกติจะเป็น ตัวเลขหรือ %)
+
++ harmony
++ data,exe
+
+- ไม่เอา Class3
+
+Server : ตัวไหนก็ได้ ที่สนับสนุน Harmony (ไม่แลค)
+Client : ตัวไหนก็ได้ ที่สนับสนุนข้างบนทั้งหมด
